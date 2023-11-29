@@ -2,7 +2,7 @@
       {
         id: 1,
         movieImage: require('../assets/Spiderman/Spiderman-L.png'),
-        products: [
+        "products": [
           //Spider-Man
           { id: 1, name: 'Produit Spider-Man 1', price: '29.99€', image: require("../assets/Spiderman/costume_homme_noire.jpeg"),inStock: false },
           { id: 2, name: 'Produit Spider-Man 2', price: '30.99€', image: require("../assets/Spiderman/costume_homme_spiderman.jpeg"),inStock: true },
@@ -25,7 +25,7 @@
       {
         id: 2,
         movieImage: require('../assets/images_de_projet/captain_flot.png'),
-        products: [
+        "products": [
           // Captain America
           { id: 1, name: 'Produit Captain America 1', price: '34.99€', image:  require("../assets/Captain_America/captain_cosplay1.jpg"),inStock: true },
           { id: 2, name: 'Produit Captain America 1', price: '34.99€', image:  require("../assets/Captain_America/captain_cosplay2.jpg"),inStock: true },
@@ -44,7 +44,7 @@
       {
         id: 3,
         movieImage: require('../assets/images_de_projet/thor_flot.png'),
-        products: [
+       " products": [
           { id: 1, name: 'Produit Thor 1', price: '39.99€', image: require("../assets/Thor/tho_marteau2.jpg"),inStock: true },
           { id: 2, name: 'Produit Thor 1', price: '39.99€', image: require("../assets/Thor/thor_cosplay.jpg"),inStock: true },
           { id: 3, name: 'Produit Thor 1', price: '39.99€', image: require("../assets/Thor/thor_costume.jpg"),inStock: true },
@@ -59,7 +59,7 @@
       {
         id: 4,
         movieImage: require('../assets/images_de_projet/iron_flot.png'),
-        products: [
+        "products": [
           { id: 1, name: 'Produit Iron Man 1', price: '49.99€', image: require("../assets/Ironman/iron1.jpg"),inStock: true  },
           { id: 2, name: 'Produit Iron Man 1', price: '49.99€', image: require("../assets/Ironman/iron2.jpg"),inStock: true},
           { id: 3, name: 'Produit Iron Man 1', price: '49.99€', image: require("../assets/Ironman/iron3.jpg"),inStock: true},
@@ -71,7 +71,7 @@
             {
         id: 5,
         movieImage: require('../assets/images_de_projet/strange3_flot.png'),
-        products: [
+        "products": [
           { id: 1, name: 'Produit Doctor Strange 1', price: '59.99€', image: require("../assets/Doctor_Strange/Doctor_strange1.jpg"),inStock: true },
           { id: 2, name: 'Produit Doctor Strange 1', price: '59.99€', image: require("../assets/Doctor_Strange/doctor_strange2.jpg"),inStock: true },
           { id: 3, name: 'Produit Doctor Strange 1', price: '59.99€', image: require("../assets/Doctor_Strange/doctor_strange3.jpg"),inStock: true },
@@ -89,7 +89,7 @@
       {
         id: 6,
         movieImage: require('../assets/images_de_projet/dead2_flot.png'),
-        products: [
+       "products": [
           { id: 1, name: 'Produit Deadpool 1', price: '24.99€', image: require("../assets/Deadpool/deadpol_packcosplay.jpg"),inStock: true },
           { id: 2, name: 'Produit Deadpool 1', price: '24.99€', image: require("../assets/Deadpool/deadpool_masque.jpg"),inStock: true },
           { id: 3, name: 'Produit Deadpool 1', price: '24.99€', image: require("../assets/Deadpool/deadpool1.jpg"),inStock: true },
