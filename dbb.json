@@ -1,6 +1,6 @@
 {
   "movies": [
-    {
+    { 
       "id": 1,
       "movieImage": "require('../assets/Spiderman/Spiderman-L.png')",
       "products": [
